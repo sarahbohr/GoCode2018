@@ -7,6 +7,6 @@ The process of Businesses finding Non-Profits and vice versa are often difficult
 ## How can we help?
 GiveMatch integrates public data about Colorado charities to HUMANIZE the relationships between local Non-Profit Organizations and their business counterparts.
 # What does that mean?
-![GiveMatch landing page displaying its user interface and how it brings data to its users.](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![GiveMatch landing page displaying its user interface and how it brings data to its users.](https://github.com/GoCodeColorado/FosterTheBananas/blob/master/screenshots/GiveMatch.png)
 [Waffle Board](https://waffle.io/GoCodeColorado/FosterTheBananas)
 
