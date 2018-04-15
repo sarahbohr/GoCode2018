@@ -12,5 +12,7 @@ As companies visit GiveMatch, they are presented with non-profits that have a ne
 ## What is happening under the hood?
 Currently, we are using two sources of data from the Colorado Information Marketplace.  The first source populates financial information of many types to calculate need on a monetary level.  The second source allows us to find each NPOs mission statement which we can then parse through to determine keywords to match a company's values or needs to the correct mission statement.  Both sources use Federal Employer Identification Number to ensure we are using data that matches that NPO.  Here is an example of real financial data being populated:
 ![Financial data being parsed and displayed in browser.](https://github.com/GoCodeColorado/FosterTheBananas/blob/master/screenshots/FinancialData.png)
-[Waffle Board](https://waffle.io/GoCodeColorado/FosterTheBananas)
+## Data Sources:
+[Financial Data for NPOs on the Colorado Information Marketplace](https://data.colorado.gov/Nonprofit-Data/501-c-4-s-Related-to-other-501-c-4-s-and-501-c-6-s/jdp7-78y7 "Financial Data for NPOs")
+[Mission Statements for NPOs on the Colorado Information Marketplace](https://data.colorado.gov/Nonprofit-Data/Charitable-Purpose-of-the-Charity-in-Colorado/7jm9-f28m/data "Mission Statements for NPOs")
 
